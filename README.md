@@ -57,15 +57,20 @@ Follow these steps to train your bigram model and use it for prediction:
    python punctuation_removal.py
    python data_extraction.py
    python token_list.py
-3.	Build Frequency and Probability Tables
+3. **Build Frequency and Probability Tables
+   ```bash
    python frequency_table.py
    python probabilistic_model_table.py
   	
-5. Predict Next Words
+5. **Predict Next Words
+   ```bash
    python next_word_predict.py
    
-6. Generate Sentences
+7. **Generate Sentences
+   ```bash
    python sentence_generator.py
+   
+8.**end --
 
 🌱 Future Improvements
 
